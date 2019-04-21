@@ -1,0 +1,15 @@
+<ion-content>
+    <ion-card>
+        <img [src]="user.imagen"/>
+        <ion-card-content>
+            <ion-card-title>
+                {{ user.nombre }}
+            </ion-card-title>
+            <p>{{ user.email}}</p>
+            <p>{{ user.uid }}</p>
+        </ion-card-content>
+    </ion-card>
+    <button round ion-button block color="danger" (click)="salir()">
+        Salir de {{ user.provider }}
+    </button>
+</ion-content>

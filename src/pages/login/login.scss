@@ -1,0 +1,20 @@
+page-login {
+    ion-content{       /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#23599b+1,207cca+39,2b88d9+60,2b88d9+60,50a4e5+100 */
+        background: #23599b; /* Old browsers */
+        background: -moz-linear-gradient(-45deg, #23599b 1%, #207cca 39%, #2b88d9 60%, #2b88d9 60%, #50a4e5 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, #23599b 1%,#207cca 39%,#2b88d9 60%,#2b88d9 60%,#50a4e5 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, #23599b 1%,#207cca 39%,#2b88d9 60%,#2b88d9 60%,#50a4e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    }
+    img{
+        width:150px;
+    }
+    h3{
+        color: white;
+    }
+    .top-20{
+        margin-top: 20%
+    }
+    .top-5{
+        margin-top: 5%
+    }
+}
