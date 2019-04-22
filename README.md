@@ -12,7 +12,9 @@
  - Firebase authentication
 
 Application for authenticating.
+
 ![alt text](https://github.com/gabrieljf217/APP-LoginAuthentication_ionic3/blob/master/src/assets/imgs/appAuth.png)
 
 Firebase authentication.
+
 ![alt text](https://github.com/gabrieljf217/APP-LoginAuthentication_ionic3/blob/master/src/assets/imgs/auth.png)
